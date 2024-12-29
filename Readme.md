@@ -42,7 +42,7 @@ This project is a full-stack video player application that provides a YouTube-li
 1. Start the backend server:
    ```bash
    cd backend
-   npx nodemon
+   npm run dev
    ```
 2. Start the frontend application:
    ```bash
